@@ -1,0 +1,9 @@
+.footer-sec{
+    background-color: #111223;
+    padding: 100px 0px;
+    
+}
+
+.footer-col{
+    display: flex;
+}

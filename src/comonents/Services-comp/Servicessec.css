@@ -1,0 +1,26 @@
+.Servicessec{
+    background-color: #fff;
+    padding: 100px 0px ;
+    
+
+}
+.cards {
+    padding-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 40px; 
+    row-gap: 140px;
+}
+.card{
+    height: 400px;
+}
+
+.Servicessec a.mediam-btn {
+    
+    display: table;
+    margin: auto; 
+    margin-top: 20px;
+   
+  }
+
+

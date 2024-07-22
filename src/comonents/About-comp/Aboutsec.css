@@ -1,0 +1,8 @@
+.aboutsec{
+    padding: 50px 0px;
+}
+.about-col{
+    display: flex;
+    align-items: center;
+    column-gap: 70px;
+}

@@ -1,0 +1,84 @@
+.banner-txt{
+    width: 60%;
+    
+}
+
+.banner .banner-txt h3{
+    color: #fff !important;
+    font-size: 25px;
+    border-radius: 0px 10px 10px 0px;
+    position: absolute !important;
+    background: linear-gradient(90deg, rgba(218, 189, 90, 1) 0%, rgba(199, 155, 59, 1) 100%) !important;
+    width: 41.5%;
+    height: 3%;
+    left: 0%;
+    z-index: 9;
+    padding: 20px 20px !important;
+    font-weight: 300;
+    display: flex;
+    align-items:center;
+    justify-content: end;
+    
+    
+}
+
+.banner .banner-txt h1{
+    color: #fff !important;
+    font-size: 60px;
+    padding: 50px 0px 20px 0px;
+    
+}
+
+.banner .banner-txt p{
+    color: #fff ;
+    font-size: 18px ;
+    font-weight: 200;
+    line-height: 30px;
+    padding-bottom: 40px;
+    
+    
+}
+
+.banner .banner-txt .banner-btn a{
+    text-decoration: none ;
+    color: #fff !important;
+    /* background: linear-gradient(90deg, rgba(218, 189, 90, 1) 0%, rgba(199, 155, 59, 1) 100%); */
+    font-size: 18px ;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 10px;
+    transition: 0.5s ease-in-out;
+    
+    
+    
+}
+
+.banner .banner-txt .banner-btn{
+    display: flex;
+    gap: 20px ;
+}
+
+.banner .banner-txt .banner-btn a.book-btn{
+    padding: 20px 40px;
+    background: linear-gradient(90deg, rgba(218, 189, 90, 1) 0%, rgba(199, 155, 59, 1) 100%);
+    
+}
+
+.banner .banner-txt .banner-btn a.explore-btn{
+    padding: 20px 30px;
+    background-color: transparent !important;
+    border: 1px solid ;
+    transition: 0.5s ease-in-out;
+    
+    
+}
+
+.banner .banner-txt .banner-btn a.explore-btn:hover{
+    background: linear-gradient(90deg, rgba(218, 189, 90, 1) 0%, rgba(199, 155, 59, 1) 100%);
+    border: none;
+    transition: 0.5s ease-in-out;
+    
+}
+
+
+

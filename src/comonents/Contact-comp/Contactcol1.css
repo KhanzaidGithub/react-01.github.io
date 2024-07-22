@@ -1,0 +1,45 @@
+.contactsec .contact-col .contect-heading h2{
+    font-size: 60px;
+    padding-top: 25px ;
+   
+}
+
+.contactsec .contact-col .contect-heading p{
+    font-size: 18px;
+    width: 90%;
+    line-height: 30px;
+    
+}
+
+
+.contactsec .contact-col .farm {
+    padding-top: 20px;
+    display: flex !important;
+    flex-direction: column;
+    row-gap: 20px;
+    width: 90% !important;
+}
+
+.contactsec .contact-col .farm-inner {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.contactsec .contact-col .farm-inner input{
+    width: 48%;
+}
+
+.contactsec .contact-col .farm input{
+    padding: 20px !important;
+    border-radius: 20px !important;
+    border: 1px solid #00000026;
+    font-size: 18px ;
+    text-transform: capitalize
+}
+
+.contactsec .contact-col .farm input:nth-child(3){
+    padding-bottom: 150px !important;
+    margin-bottom: 40px;
+    
+  
+}

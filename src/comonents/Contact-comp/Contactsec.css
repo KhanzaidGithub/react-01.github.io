@@ -1,0 +1,8 @@
+.contactsec{
+    padding: 100px 0px;
+}
+.contact-col{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

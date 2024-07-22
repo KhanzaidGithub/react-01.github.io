@@ -1,0 +1,35 @@
+.nav-btn{
+    background: linear-gradient(90deg, rgba(218, 189, 90, 1) 0%, rgba(199, 155, 59, 1) 100%) !important;
+    padding: 25px 60px !important;
+    border-radius: 10px !important;
+    color: #fff !important;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.small-btn{
+    background: linear-gradient(90deg, rgba(218, 189, 90, 1) 0%, rgba(199, 155, 59, 1) 100%) !important;
+    width: fit-content !important;
+    padding: 14px 26px !important;
+    color: #fff !important;
+    border-radius: 10px !important;
+    letter-spacing: 1px !important;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+
+}
+.mediam-btn{
+    background: rgb(218,189,90);
+    background: linear-gradient(90deg, rgba(218,189,90,1) 0%, rgba(199,155,59,1) 100%) !important;
+    padding: 18px 45px !important ;
+    border-radius: 10px !important;
+    color: #fff !important;
+    letter-spacing: 1px !important;
+    text-transform: uppercase !important;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+}

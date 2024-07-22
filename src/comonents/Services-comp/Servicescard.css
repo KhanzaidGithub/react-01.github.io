@@ -1,0 +1,28 @@
+.card img{
+    width: 400px;
+    height: 400px;
+    
+}
+
+.card h1{
+
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    position: relative;
+    top: -18px;
+    
+   
+}
+
+
+
+.card:hover h1{
+        background: linear-gradient(90deg, rgba(218, 189, 90, 1) 0%, rgba(199, 155, 59, 1) 100%) !important;
+         
+        
+        
+}
